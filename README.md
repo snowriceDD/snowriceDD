@@ -14,4 +14,5 @@ Developer + Designer 개..자이너?
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowriceDD)](https://github.com/snowriceDD/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowriceDD&layout=compact)](https://github.com/snowriceDD/github-readme-stats)
