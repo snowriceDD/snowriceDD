@@ -8,6 +8,16 @@ Developer + Designer 개..자이너?
 - React
 - Typescript
 - Styled-Components
+
+## Experience
+- 디자인
+
+
+## Education
+- Elice SW engineer track 3rd.
+
+## Projects
+### WeChing :: 우리들의 칭찬
 ------
 <!-- 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
