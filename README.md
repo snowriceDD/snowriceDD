@@ -11,6 +11,7 @@ Developer + Designer 개..자이너?
 
 ## Experience
 - 디자인
+- 행사 및 IT 기획
 
 
 ## Education
