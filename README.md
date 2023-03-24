@@ -10,12 +10,14 @@ Developer + Designer 개..자이너?
 - Styled-Components
 
 ## Experience
-- 디자인
+- 웹 프론트엔드 개발
+- UX/UI & 판촉 디자인
 - 행사 및 IT 기획
-
+- 3D 모델링
 
 ## Education
-- Elice SW engineer track 3rd.
+- Elice AI engineer track 5rd - complete preTrack
+- Elice SW engineer track 3rd - complete full-Time Track
 
 ## Projects
 ### WeChing :: 우리들의 칭찬
