@@ -21,10 +21,10 @@ Developer + Designer 개..자이너?
 - github
 
 ## Experience
-- Web Front-end Development
-- UX/UI & Promotion Design
-- IT & Conference Planing
-- 3D modeling & rendering
+- Web Front-end Development.
+- UX/UI & Promotion Design.
+- IT & Conference Planing.
+- 3D modeling & rendering.
 
 ## Education
 - Elice AI engineer track 5rd - complete preTrack
