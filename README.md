@@ -5,16 +5,26 @@ Developer + Designer 개..자이너?
 ------
 ## Skill
 
-*** dev
+### dev
 - React
 - Typescript
 - Styled-Components
+- Redux
+
+### design
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+
+### tools
+- git
+- github
 
 ## Experience
-- 웹 프론트엔드 개발
-- UX/UI & 판촉 디자인
-- 행사 및 IT 기획
-- 3D 모델링
+- Web Front-end Development
+- UX/UI & Promotion Design
+- IT & Conference Planing
+- 3D modeling & rendering
 
 ## Education
 - Elice AI engineer track 5rd - complete preTrack
