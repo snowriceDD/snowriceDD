@@ -5,7 +5,7 @@ Developer + Designer 개..자이너?
 ------
 ## Skill
 
-### dev
+*** dev
 - React
 - Typescript
 - Styled-Components
