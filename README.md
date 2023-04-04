@@ -1,4 +1,4 @@
-Developer + Designer 개..자이너?
+Developer + Designer
 ====
 
 서비스의 시작부터 끝까지 함께 할 수 있는 전천후 인재를 꿈꿉니다.
@@ -29,6 +29,11 @@ Developer + Designer 개..자이너?
 ## Education
 - Elice AI engineer track 5rd - complete preTrack
 - Elice SW engineer track 3rd - complete full-Time Track
+
+## Digression
+- vanilla CSS를 좋아하고, UI를 구성할 때, 몰입하는 편.
+- 스스로 자극을 느낄 수 있는 도전적인 개발 선호.
+- 더 좋은 내일을 위한 소통, 제안, 성장 선호.
 
 ## Projects
 ### WeChing :: 우리들의 칭찬
