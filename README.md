@@ -28,10 +28,6 @@ Developer + Designer
 - IT & Conference Planing.
 - 3D modeling & rendering.
 
-## Education
-- Elice AI engineer track 5rd - complete preTrack
-- Elice SW engineer track 3rd - complete full-Time Track
-
 ## Digression
 - 스스로 자극을 느낄 수 있는 도전적인 개발 선호.
 - 더 좋은 내일을 위한 소통, 제안, 성장 선호.
