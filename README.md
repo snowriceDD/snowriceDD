@@ -9,7 +9,8 @@ Developer + Designer
 
 ### dev
 - React
-- Typescript
+- Next.js - _learning..._
+- Typescript - _learning..._
 - Styled-Components
 - Redux
 
