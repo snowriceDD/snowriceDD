@@ -19,7 +19,11 @@ Developer + Designer
       "redux",
       "styled-components"
     ],
-    "uiux": ["figma", "adobe photoshop", "adobe illustrator"],
+    "uiux": [
+      "figma", 
+      "adobe photoshop", 
+      "adobe illustrator"
+    ],
   },
   "motto": "rola",
   "love": ["Thinking about a better UX"],
