@@ -5,6 +5,28 @@ Developer + Designer
 - https://about-yunsu.vercel.app/
 
 ------
+##Introduce
+```JSON
+{
+  "name": "kim, yun su",
+  "position": "web frontend developer",
+  "tech-stack": {
+    "frontend": [
+      "typescript",
+      "javascript",
+      "react.js",
+      "next 13",
+      "redux",
+      "styled-components"
+    ],
+    "uiux": ["figma", "adobe photoshop", "adobe illustrator"],
+  },
+  "motto": "rola",
+  "love": ["Thinking about a better UX"],
+  "hobby": ["making", "snowboard", "cycling"],
+}
+```
+<!-- 
 ## Skill
 
 ### dev
@@ -33,10 +55,10 @@ Developer + Designer
 - 스스로 자극을 느낄 수 있는 도전적인 개발 선호.
 - 더 좋은 내일을 위한 소통, 제안, 성장 선호.
 - vanilla CSS를 좋아하고, UI를 구성할 때, 몰입하는 편.
-- Interaction UXUI 관심.
-
+- Interaction UXUI 관심. -->
+<!-- 
 ## Projects
-### WeChing :: 우리들의 칭찬
+### WeChing :: 우리들의 칭찬 -->
 ------
 <!-- 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
