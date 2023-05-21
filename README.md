@@ -5,7 +5,7 @@ Developer + Designer
 - https://about-yunsu.vercel.app/
 
 ------
-##Introduce
+## Introduction
 ```JSON
 {
   "name": "kim, yun su",
