@@ -2,7 +2,7 @@ Developer + Designer
 ====
 서비스의 시작부터 끝까지 함께 할 수 있는 전천후 인재를 꿈꿉니다.
 <a href="https://www.figma.com/file/NQY8ydaRTpjmLhtIaAjIJR/%EA%B9%80%EC%9C%A4%EC%88%98-resume?node-id=0%3A1&t=zUxPYvjW0b3PFHyD-1" target="_blank">RESUME</a>
-- https://about-yunsu.vercel.app/
+- https://vsp-yunsu.vercel.app/
 
 ------
 ## Introduction
