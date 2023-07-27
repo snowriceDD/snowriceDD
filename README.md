@@ -17,7 +17,8 @@ Developer + Designer
       "react.js",
       "next 13",
       "redux",
-      "styled-components"
+      "styled-components",
+      "tailwindCSS"
     ],
     "uiux": [
       "figma", 
